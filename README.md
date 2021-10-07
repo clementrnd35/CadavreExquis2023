@@ -1,2 +1,4 @@
-# CadavreExquis2023
-Travail d'écriture en groupe. Ce dépôt servira à rédiger notre cadavre exquis d'un récit.
+Alice allait au supermarché en trotinette électrique quand elle percuta une chevre. 
+C'était une chevre naine gilet jaune. 
+Alice n'aimait pas les gilets jaune et elle coupa la tete de la chevre.
+La chevre était donc hallal et comme Alice est musulmane elle l'a bouffé
